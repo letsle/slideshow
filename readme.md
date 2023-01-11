@@ -1,4 +1,4 @@
-# Slide Show💡
+# Slide Show
 
 ## Desenvolvi essa com fotos em slide show para praticar HTML, CSS e JavaScript 👩🏽‍💻
 
